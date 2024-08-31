@@ -42,7 +42,7 @@
         </ul>
         <h3>Hướng dẫn cài đặt</h3>
         <ol>
-            <li>Clone repository: <a href="https://github.com/ngoc0110/Webdongho.git">https://github.com/dinhquyn/weddatlichsanbong.git</a></li>
+            <li>Clone repository: <a href="https://github.com/ngoc0110/Webdongho.git">https://github.com/ngoc0110/Webdongho.git</a></li>
             <li>Cài đặt các gói phụ thuộc: <code>npm install</code></li>
             <li>Tạo file .env để lưu trữ các biến môi trường:
                 <pre>
