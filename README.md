@@ -74,7 +74,7 @@ STRIPE_SECRET_KEY=chuoi-khoa-bi-mat-cua-stripe
     </section>
     <section id="lien-he">
         <h2>Liên hệ</h2>
-        <p>Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, vui lòng liên hệ với chúng tôi qua email tại <a href="mailto:22010490@st.phenikaa-uni.edu.vn">22010342@st.phenikaa-uni.edu.vn</a>.</p>
+        <p>Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, vui lòng liên hệ với chúng tôi qua email tại <a href="mailto:22010490@st.phenikaa-uni.edu.vn">22010490@st.phenikaa-uni.edu.vn</a>.</p>
     </section>
     <footer>
         <p>&copy; 2024 Trang Web Bán Đồng Hồ. Tất cả quyền được bảo lưu.</p>
