@@ -91,19 +91,19 @@ STRIPE_SECRET_KEY=chuoi-khoa-bi-mat-cua-stripe
       <h2>Story Example</h2>
       <div class="gallery__item gallery__item--3">
         <a href="a1" class="gallery__link">
-          <img src="st1.jpg" class="gallery__image" />
+          <img src="picture/st1.jpg" class="gallery__image" />
         </a>
-        <a href="a1" class="gallery__link">
-          <img src="st2.jpg" class="gallery__image" />
+        <a href="a2" class="gallery__link">
+          <img src="picture/st2.jpg" class="gallery__image" />
         </a>
-        <a href="a1" class="gallery__link">
-          <img src="st3.jpg" class="gallery__image" />
+        <a href="a3" class="gallery__link">
+          <img src="picture/st3.jpg" class="gallery__image" />
         </a>
-        <a href="a1" class="gallery__link">
-          <img src="st4.jpg" class="gallery__image" />
+        <a href="a4" class="gallery__link">
+          <img src="picture/st4.jpg" class="gallery__image" />
         </a>
-        <a href="a1" class="gallery__link">
-          <img src="st5.jpg" class="gallery__image" />
+        <a href="a5" class="gallery__link">
+          <img src="picture/st5.jpg" class="gallery__image" />
         </a>
       </div>
     </section>
