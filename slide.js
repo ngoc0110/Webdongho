@@ -60,13 +60,10 @@ function updateCartCount() {
 
   document.getElementById("cartCount").innerText = totalCount;
 }
-
-// Gọi hàm updateCartCount khi trang được tải
 document.addEventListener("DOMContentLoaded", function () {
   updateCartCount();
 });
 
-// Thêm sự kiện cho các nút tăng giảm số lượng
 document.addEventListener("click", function (event) {
   if (event.target.classList.contains("cart-item-quantity-decrease")) {
     var input = event.target.nextElementSibling;
@@ -83,7 +80,6 @@ document.addEventListener("click", function (event) {
   }
 });
 
-// Thêm sự kiện cho input số lượng
 document.addEventListener("input", function (event) {
   if (event.target.closest(".cart-item-quantity input")) {
     updateCartCount();
